@@ -1,5 +1,6 @@
 # Linear Regression Calculator
 
+
 <!-- Table of Contents -->
 <details>
 <summary><strong>📑 Table of Contents</strong></summary>
@@ -8,6 +9,7 @@
 - [2. Functions](#2-functions)
 - [3. Program Output](#3-program-output)
 - [4. Additional Information](#4-additional-information)
+- [5. Installation & Quick Start](#-installation--quick-start)
 
 </details>
 
@@ -209,4 +211,52 @@ This program takes raw data, calculates the regression line manually, and shows 
 **Run it:** `test.py`  
 **See:** Real math, real predictions, real graph  
 **Learn:** Linear regression from data to equation
+
+---
+
+## [5. Installation & Quick Start](#-installation--quick-start)
+
+### Prerequisites
+- Python 3.7 or higher
+
+### Create a Virtual Environment (Recommended)
+Using a virtual environment keeps dependencies isolated and prevents conflicts with your system Python.
+
+**Create and activate the virtual environment:**
+
+```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate on macOS/Linux
+source venv/bin/activate
+
+# Activate on Windows (PowerShell)
+venv\Scripts\Activate.ps1
+```
+
+You should see `(venv)` at the start of your command prompt when activated.
+
+### Install Dependencies
+With your virtual environment activated, install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+This installs pandas, matplotlib, and numpy from the requirements file.
+
+### Run the Program
+1. Make sure your virtual environment is still activated (you should see `(venv)` in your prompt)
+2. Make sure you have a `data.csv` file in the same directory
+3. Navigate to the project folder:
+4. Run the program:
+   ```bash
+   python test.py
+   ```
+5. A graph window will open showing your data points and the regression line
+
+**To deactivate the virtual environment when done:**
+```bash
+deactivate
 ```
