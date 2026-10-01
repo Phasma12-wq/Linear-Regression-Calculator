@@ -40,7 +40,7 @@
 
 ---
 
-## [2. Functions for b0 and b1](#2-functions)
+## [2. Functions](#2-functions)
 
 ### `calc_b0(sum_x, sum_y, sum_x2, sum_xy, row_count)` <!-- -->
 **Purpose:** Calculate the y-intercept of the regression line
