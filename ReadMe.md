@@ -214,7 +214,7 @@ This program takes raw data, calculates the regression line manually, and shows 
 
 ---
 
-## 🚀 [Installation & Quick Start](#installation-quick-start)
+## 🚀 [5. Installation & Quick Start](#installation-quick-start)
 
 ### Prerequisites
 - Python 3.7 or higher
