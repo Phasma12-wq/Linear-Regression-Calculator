@@ -1,4 +1,4 @@
-# test.py - Linear Regression Analysis Tool
+# Linear Regression Calculator
 
 <!-- Table of Contents -->
 <details>
