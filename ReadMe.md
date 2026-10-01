@@ -4,14 +4,14 @@
 <details>
 <summary><strong>📑 Table of Contents</strong></summary>
 
-- [1. Purpose of Each Part](#1-purpose-of-each-part)
-- [2. Functions for b0 and b1](#2-functions-for-b0-and-b1)
+- [1. Purpose](#1-purpose)
+- [2. Functions](#2-functions)
 - [3. Program Output](#3-program-output)
 - [4. Additional Information](#4-additional-information)
 
 </details>
 
-## [1. Purpose of Each Part](#1-purpose-of-each-part)
+## [1. Purpose of Each Part](#1-purpose)
 
 ### Part 1: [Data Loading & Display](#part-1-data-loading-display)
 - **Reads CSV data** - Loads x and y values from `data.csv` into a pandas DataFrame
@@ -38,7 +38,7 @@
 
 ---
 
-## [2. Functions for b0 and b1](#2-functions-for-b0-and-b1)
+## [2. Functions for b0 and b1](#2-functions)
 
 ### `calc_b0(sum_x, sum_y, sum_x2, sum_xy, row_count)` <!-- -->
 **Purpose:** Calculate the y-intercept of the regression line
