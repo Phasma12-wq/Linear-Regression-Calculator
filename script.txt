@@ -1,6 +1,0 @@
-split the documentation into sections:
-1. purpose of each part
-2. functions for b1 and b0
-3. program output
-
-note: provide additional information if deemed neccessary
